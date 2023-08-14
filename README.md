@@ -13,6 +13,9 @@ Question 5: Clustering and Dimensionality Reduction
 
 Question 6: Market segementation  
 
+[Uploading Market segmentation.ipynb…]()
+[social_marketing.csv](https://github.com/eeshanah/IML_exercises/files/12339759/social_marketing.csv)
+
 Question 7: The Reuters Corpus   
 
 Question 8: Association Rule Mining  
@@ -20,3 +23,6 @@ Question 8: Association Rule Mining
 [grocery_association_rule_mining.pdf](https://github.com/eeshanah/IML_exercises/files/12339719/grocery_association_rule_mining.pdf)  
 
 Question 9: Image Classification with Neural Networks  
+[CNN - Jupyter Notebook.pdf](https://github.com/eeshanah/IML_exercises/files/12339764/CNN.-.Jupyter.Notebook.pdf)
+[Uploading CNN.ipynb…]()
+[Uploading Visualization ML.ipynb…]()

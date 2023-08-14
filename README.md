@@ -1,7 +1,7 @@
 # IML_exercises
 This is the IML Part 2 Exercises from our group: Eeshana Hamed, Luis Villazon, Sardar Muhammad Ahmad Ali, and Anurag Arakala
 
-Question 1: Probability Practice 
+Question 1: Probability Practice  
 Question 2: Wrangling the Billboard Top 100
 Question 3: Green Buildings
 Question 4: Capital Metro Data 
